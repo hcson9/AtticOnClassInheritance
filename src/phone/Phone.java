@@ -1,3 +1,5 @@
+package phone;
+
 /**
  * create on 2024/05/29 create by IntelliJ IDEA.
  *
@@ -7,7 +9,7 @@
  * @version 1.0
  * @since 1.0
  */
-public interface Camera {
-  void takePicture();
+public interface Phone {
 
+  void call();
 }

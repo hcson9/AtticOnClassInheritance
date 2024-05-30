@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
+package phone;
 
 /**
  * create on 2024/05/28 create by IntelliJ IDEA.
@@ -36,7 +34,7 @@ public class Main {
     iPhone15.ai();
 
 //    iPhone.call();
-//    IPhone15 a = (IPhone15) iPhone;
+//    phone.IPhone15 a = (phone.IPhone15) iPhone;
 //
 //    List<String> a = new LinkedList<>();
 //
