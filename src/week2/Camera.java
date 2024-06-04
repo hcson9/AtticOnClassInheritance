@@ -1,7 +1,7 @@
-package phone;
+package week2;
 
 /**
- * create on 2024/05/29 create by IntelliJ IDEA.
+ * create on 2024/06/03 create by IntelliJ IDEA.
  *
  * <p> New Project. </p>
  *
@@ -10,7 +10,10 @@ package phone;
  * @since 1.0
  */
 public interface Camera {
+
   void takePicture();
 
+  default void 화면보기() {
 
+  }
 }

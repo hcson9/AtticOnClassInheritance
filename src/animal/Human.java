@@ -13,8 +13,11 @@ public class Human extends Animal
     implements Carnivorous, Herbivorous {
   // or implements Omnivorous
 
+  private boolean value;
+
   public Human() {
     super("Human");
+    value = false;
   }
 
   @Override

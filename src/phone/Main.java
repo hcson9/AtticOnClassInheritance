@@ -14,21 +14,14 @@ public class Main {
   public static void main(String[] args) {
 
     Phone iPhone = new IPhone15();
-
-
     SmartPhone smartPhone = new IPhone15();
-
-
     IPhone iPhone2 = new IPhone15();
-
-
     IPhone15 iPhone15 = new IPhone15();
 
 
+
     Phone phone = new Samsung();
-
     SmartPhone smartPhone1 = new Samsung();
-
 
 
     iPhone15.ai();
